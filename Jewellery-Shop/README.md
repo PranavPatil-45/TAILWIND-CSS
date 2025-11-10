@@ -60,8 +60,7 @@ Jewellery-Shop/
 
 ## 🖼️ Video
 
-<video src"https://drive.google.com/file/d/1fodFgUhqlECA6JqIcsdXsV4vYNkC6hn2/view?usp=sharing" autoplay muted loop playsinline width="700px"></video
->
+<video src"https://drive.google.com/file/d/1fodFgUhqlECA6JqIcsdXsV4vYNkC6hn2/view?usp=sharing" autoplay muted loop playsinline width="700px"></video>
 
 
 * **Lumina Collections Grid** – responsive gallery with soft hover ring + scale
