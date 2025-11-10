@@ -58,9 +58,9 @@ Jewellery-Shop/
 * `npm run build` – production build
 * `npm run preview` – preview production build
 
-## 🖼️ Screenshots
+## 🖼️ Video
 
-> Add your screenshots here.
+
 
 * **Lumina Collections Grid** – responsive gallery with soft hover ring + scale
 * **Footer** – logo placeholder, socials, contact, and quick links
