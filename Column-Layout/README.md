@@ -73,16 +73,4 @@ If you like this project, consider ⭐ starring the repo!
 
 ```
 
----
 
-If you want I can also:
-✅ Generate **Screenshots**  
-✅ Create a **demo GIF**  
-✅ Create a **GitHub project thumbnail banner** (modern & minimal)
-
-Just tell me:  
-**Which theme do you prefer?**  
-1) Dark 🖤  
-2) Light 🤍  
-3) Gradient Neon 🌈
-```
