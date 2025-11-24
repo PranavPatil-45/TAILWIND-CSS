@@ -1,16 +1,76 @@
-# React + Vite
+# 📐 Responsive Column Layout using Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates how to build a **responsive multi-column layout** in **React** using **Tailwind CSS breakpoints**.  
+The layout adjusts the number of columns based on screen size for a clean and consistent UI across devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Used
 
-## React Compiler
+- ⚛️ **React**
+- 🎨 **Tailwind CSS**
+- 📱 **Responsive Breakpoints**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📏 Tailwind Breakpoints Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Breakpoint | Screen Size | Layout Behavior |
+|-----------|------------|----------------|
+| `sm`      | ≥ 640px    | 2 Columns      |
+| `md`      | ≥ 768px    | 3 Columns      |
+| `lg`      | ≥ 1024px   | 4 Columns      |
+
+Example classes used:
+```html
+className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4"
+````
+
+---
+
+## 🧱 Column Layout Preview
+
+Each column contains responsive content that stacks on small screens and spreads out on larger screens.
+
+```jsx
+<div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+  <div className="p-4 bg-gray-200 rounded">Column 1</div>
+  <div className="p-4 bg-gray-200 rounded">Column 2</div>
+  <div className="p-4 bg-gray-200 rounded">Column 3</div>
+  <div className="p-4 bg-gray-200 rounded">Column 4</div>
+</div>
+```
+
+---
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/PranavPatil-45/TAILWIND-CSS.git
+cd Column-Layout
+npm install
+npm start
+```
+
+---
+
+## 🖼️ Video File
+
+
+
+https://github.com/user-attachments/assets/e2d196e7-4587-4b0e-9fe0-a6350fae116a
+
+
+
+
+---
+
+## 🙌 Author
+
+**Pranav Patil**
+
+If you like this project, consider ⭐ starring the repo!
+
+```
+
+
