@@ -3,7 +3,7 @@ import { Disclosure, Menu } from '@headlessui/react';
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline';
 import { Link, useLocation } from 'react-router-dom';
 
-const logoSrc = './src/assets/download.png';
+const logoSrc = 'https://image2url.com/images/1763956603504-226fdfd9-5a18-4092-9fdd-5485e758c169.png';
 
 const navigation = [
   { name: 'Home', href: '/' },
