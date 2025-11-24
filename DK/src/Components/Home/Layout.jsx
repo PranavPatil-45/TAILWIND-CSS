@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
+import { Link } from 'react-router-dom';
 
 // Animation variants
 const containerVariants = {
@@ -259,7 +260,8 @@ const ProductsHighlight = () => {
             whileTap={{ scale: 0.95 }}
             className="bg-gradient-to-r from-red-500 to-red-600 text-white px-8 py-4 rounded-2xl font-semibold text-lg shadow-lg hover:shadow-xl transition-all duration-300"
           >
-          <Link to="/products">View All Products</Link>
+         <Link to="/products">View All Products</Link>
+
           </motion.button>
         </motion.div>
       </div>
