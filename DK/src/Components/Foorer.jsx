@@ -180,7 +180,7 @@ const Footer = () => {
                   className="bg-white rounded-2xl p-4 shadow-2xl inline-block"
                 >
                   <img
-                    src="./src/assets/download.png"
+                    src="https://image2url.com/images/1763956603504-226fdfd9-5a18-4092-9fdd-5485e758c169.png"
                     alt="DK Krishna Dairy"
                     className="h-12 w-auto"
                   />

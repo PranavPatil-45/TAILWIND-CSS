@@ -137,7 +137,7 @@ const AnimatedProductCard = ({ product, index }) => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          <a href="/products">Order Now</a>
+            <Link to="/products">View Details</Link>
         </motion.button>
       </div>
 
