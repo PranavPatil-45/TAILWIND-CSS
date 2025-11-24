@@ -109,11 +109,7 @@ npm run dev
 
 ---
 
-## 📸 **Screenshots**
 
-(Add images here after you deploy your site)
-
----
 
 ## 🧑‍💻 **Developer**
 
