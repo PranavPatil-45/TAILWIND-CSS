@@ -119,4 +119,3 @@ npm run dev
 
 ---
 
-Want me to design a **custom banner image** for the top of your README?
