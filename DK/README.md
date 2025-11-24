@@ -2,7 +2,7 @@
 
 A beautifully designed **React + Tailwind CSS** website showcasing DK Krishna Dairy’s products with smooth animations, responsive layouts, and a premium UI experience.
 
-Live Project Link - https://tailwind-css-two-blush.vercel.app/contact
+Live Project Link -(https://tailwind-css-two-blush.vercel.app/)
 
 Live Video --
 
