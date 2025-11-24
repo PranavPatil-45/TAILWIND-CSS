@@ -197,7 +197,7 @@ export default function Navbar() {
                     </svg>
 
                     <span className="relative transform group-hover:translate-x-0.5 transition-transform duration-300 z-10 pointer-events-auto text-xs sm:text-sm whitespace-nowrap">
-                      <a href="/products">Shop Now</a>
+                      <Link to="/products">Shop Now</Link>
                     </span>
 
                     <span className="opacity-0 group-hover:opacity-100 transform -translate-x-1 group-hover:translate-x-0 transition-all duration-300 pointer-events-none text-xs sm:text-sm">

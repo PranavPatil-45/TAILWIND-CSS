@@ -259,7 +259,7 @@ const ProductsHighlight = () => {
             whileTap={{ scale: 0.95 }}
             className="bg-gradient-to-r from-red-500 to-red-600 text-white px-8 py-4 rounded-2xl font-semibold text-lg shadow-lg hover:shadow-xl transition-all duration-300"
           >
-            <a href="/products">View All Products</a>
+          <Link to="/products">View All Products</Link>
           </motion.button>
         </motion.div>
       </div>
