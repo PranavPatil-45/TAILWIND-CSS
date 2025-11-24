@@ -1,16 +1,126 @@
-# React + Vite
+# 🥛 **DK Krishna Dairy — Modern Responsive Website**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully designed **React + Tailwind CSS** website showcasing DK Krishna Dairy’s products with smooth animations, responsive layouts, and a premium UI experience.
 
-Currently, two official plugins are available:
+Live Project Link - https://tailwind-css-two-blush.vercel.app/contact
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Video --
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+https://github.com/user-attachments/assets/0a8e5e92-d74a-49b7-8b85-3b7fd1b1755e
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## ✨ **Features**
+
+### 🎨 **Modern UI / UX**
+
+* Fully responsive Tailwind CSS design
+* Smooth gradients, shadows, transitions
+* Clean typography & premium color scheme
+
+### 📱 **Responsive Navigation**
+
+* Mobile hamburger menu using Headless UI
+* Animated dropdown
+* Active link highlighting
+
+### 🛒 **Product Pages**
+
+* Product listing
+* View All Products CTA
+* Reusable components
+
+### 🔔 **Interactive Components**
+
+* Animated notification popup
+* Hover & click effects
+* Gradient buttons
+
+### ⚡ **Tech Stack**
+
+| Technology              | Purpose           |
+| ----------------------- | ----------------- |
+| ⚛️ **React.js**         | UI & Components   |
+| 🎨 **Tailwind CSS**     | Styling           |
+| 🧭 **React Router DOM** | Routing           |
+| 🧩 **Headless UI**      | Menu & Disclosure |
+| 🖼️ **Heroicons**       | Icons             |
+
+---
+
+## 📂 **Project Structure**
+
+```
+📦 DK-Krishna-Dairy
+├── 📁 src
+│   ├── 📁 components
+│   │   └── Navbar.jsx
+│   ├── 📁 pages
+│   │   ├── Home.jsx
+│   │   ├── Products.jsx
+│   │   ├── About.jsx
+│   │   └── Contact.jsx
+│   ├── App.jsx
+│   └── main.jsx
+├── tailwind.config.js
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 **Getting Started**
+
+### 📥 Clone the repository
+
+```bash
+git clone https://github.com/PranavPatil-45/TAILWIND-CSS.git
+```
+
+### 📂 Navigate to project folder
+
+```bash
+cd TAILWIND-CSS/DK
+```
+
+### 📦 Install dependencies
+
+```bash
+npm install
+```
+
+### ▶️ Start development server
+
+```bash
+npm run dev
+```
+
+---
+
+
+
+
+
+
+
+
+
+---
+
+## 📸 **Screenshots**
+
+(Add images here after you deploy your site)
+
+---
+
+## 🧑‍💻 **Developer**
+
+**👤 Pranav Patil**
+
+
+
+---
+
+Want me to design a **custom banner image** for the top of your README?
